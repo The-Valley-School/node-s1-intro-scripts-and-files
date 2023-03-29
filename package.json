@@ -9,6 +9,7 @@
     "read": "node ./src/read.js",
     "write": "node ./src/write.js",
     "create-pokemons": "node ./src/create-pokemons.js",
+    "json-to-csv": "node ./src/json-to-csv.js",
     "prepare": "husky install"
   },
   "repository": {
