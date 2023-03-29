@@ -14,7 +14,6 @@ fs.readFile("./pokemons.json", (readError, data) => {
       console.log("Ha ocurrido un error PARSEANDO el fichero");
       console.log(parseError);
     }
-    
   }
 
   console.log("--- END READ.JS ---");
