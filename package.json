@@ -8,6 +8,7 @@
     "lint": "eslint src",
     "read": "node ./src/read.js",
     "write": "node ./src/write.js",
+    "create-pokemons": "node ./src/create-pokemons.js",
     "prepare": "husky install"
   },
   "repository": {
