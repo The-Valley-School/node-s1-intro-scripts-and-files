@@ -120,7 +120,7 @@ Juan;6.00
 
 Si lo visualizamos con excel o similar, podremos verlo así:
 
-![notas.png](Sesio%CC%81n%201%200516c5d59660420e91a32d3b8093fd91/notas.png)
+![notas.png](/docs/assets/notas.png)
 
 El script debe preguntar el nombre del fichero JSON donde se encuentran las notas, y también el nombre del fichero CSV que debe generar como salida. Para estas preguntas puedes usar la librería prompt-sync:
 
