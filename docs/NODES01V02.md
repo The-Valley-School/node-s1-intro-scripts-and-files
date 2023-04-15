@@ -63,7 +63,7 @@ fs.readFile("./pokemons.json", (readError, data) => {
 
 Por otro lado, para poder ejecutar fácilmente estos dos ficheros hemos creado dos scripts (write y read) en nuestro package.json:
 
-```javascript
+```json
 {
   "name": "s1-intro-scripts-and-files",
   "version": "0.0.1",
@@ -78,9 +78,7 @@ Por otro lado, para poder ejecutar fácilmente estos dos ficheros hemos creado d
     "type": "git",
     "url": "git+https://github.com/The-Valley-School/node-s1-intro-scripts-and-files.git"
   },
-  "keywords": [
-    "Node"
-  ],
+  "keywords": ["Node"],
   "author": "Fran Linde",
   "license": "ISC",
   "bugs": {
