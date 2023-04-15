@@ -32,7 +32,7 @@ Por ejemplo, un script con Node.js puede ser utilizado para:
 - Acceder a las funcionalidades del sistema operativo, como ejecutar comandos de línea de comando
 - Automatizar tareas, como el procesamiento de datos o la generación de informes.
 
-Un script de Node.js se ejecuta desde la línea de comando utilizando el comando "node" seguido del nombre del archivo `**.js**`.
+Un script de Node.js se ejecuta desde la línea de comando utilizando el comando "node" seguido del nombre del archivo .js
 
 En este vídeo hemos hecho un ejemplo de script Node que pregunta al usuario su nombre para saludarle:
 
